@@ -8,7 +8,7 @@ config.front_end = "WebGpu"
 config.animation_fps = 60
 
 -- Decoration
-config.window_decorations = "NONE"  
+config.window_decorations = "RESIZE"  
 config.window_background_opacity = 0.7 
 
 config.enable_tab_bar = true
