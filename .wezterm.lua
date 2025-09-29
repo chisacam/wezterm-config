@@ -39,7 +39,7 @@ config.cell_width = 0.9
 config.line_height = 1.05
 
 
--- Muxtiplexing keymaps
+-- Multiplexing keymaps
 local act = wezterm.action
 
 config.leader = { mods = "CTRL", key = "b", timeout_milliseconds = 2000 }
